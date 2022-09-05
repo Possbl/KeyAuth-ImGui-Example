@@ -9,12 +9,6 @@ ImGui Example using the KeyAuth API to create cool gui's in c++!
  - [KeyAuth C++](https://github.com/KeyAuth/KeyAuth-CPP-Example)
 
 
-## Authors
-
-- [Me](https://www.github.com/Possbl)
-
-
-
 
 ## Installation Process
 
